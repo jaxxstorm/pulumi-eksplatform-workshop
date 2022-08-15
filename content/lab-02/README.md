@@ -191,4 +191,4 @@ Before you continue, destroy your deployed infrastructure using `pulumi destroy 
 
 # Next Steps
 
-* [Create a Component](../lab-02/README.md)
+* [Create a Component](../lab-03/README.md)
