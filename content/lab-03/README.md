@@ -1,4 +1,4 @@
-# Lab 02 &mdash; Refactor into a Component
+# Lab 03 &mdash; Refactor into a Component
 
 In our previous lab, we deployed our application using Pulumi. Now, let's refactor this code into a reusable component.
 
